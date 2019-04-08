@@ -1,5 +1,8 @@
 {
     "require": {
-        "firebase/php-jwt": "^5.0"
+        "firebase/php-jwt": "^5.0",
+        "vlucas/phpdotenv": "^3.3",
+        "guzzlehttp/psr7": "^1.5",
+        "okta/jwt-verifier": "^0.2.1"
     }
 }
